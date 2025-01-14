@@ -1,0 +1,11 @@
+{
+    "description": "Serves as a nicer looking link to my actual website, as the .github link looks ugly to me.",
+    "repo": "https://github.com/ApplePieCodes/applepiecodes.github.io",
+    "owner": {
+        "username": "ApplePieCodes",
+        "email": "ApplePiePc@outlook.com"
+    },
+    "record": {
+        "CNAME": "applepiecodes.github.io"
+    }
+}
